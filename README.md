@@ -15,7 +15,7 @@
 
 <li>React</li>
 <li>React-Redux</li>
-<li>Firebase<li>
+<li>Firebase</li>
 <li>React-router-dom</li>
 <li>antd</li>
 <li>@ant-design/icons</li>
@@ -26,4 +26,4 @@
 
 ### 🎥 `Screen`
 
-![]()# Expense-Tracker-React-Firebase-Project
+![](tracker.gif)# Expense-Tracker-React-Firebase-Project
