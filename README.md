@@ -20,10 +20,6 @@
 <li>antd</li>
 <li>@ant-design/icons</li>
 
-### 🌐 `Deploy`
-
-
-
 ### 🎥 `Screen`
 
 ![](tracker.gif)# Expense-Tracker-React-Firebase-Project
