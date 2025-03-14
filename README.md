@@ -20,6 +20,10 @@
 <li>antd</li>
 <li>@ant-design/icons</li>
 
+### 🌐 `Deploy`
+
+https://expense-tracker-records.netlify.app/register
+
 ### 🎥 `Screen`
 
 ![](tracker.gif)# Expense-Tracker-React-Firebase-Project
